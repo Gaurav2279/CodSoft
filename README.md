@@ -22,3 +22,18 @@ Internship Expectations
 During practice, we expect you to fully participate in all assigned tasks and perform your best in each of them.
 internships are not just about completing tasks but also about building connections, 
 gaining real-world experience, and developing professionally. Best of luck with your internship at CodSoft!
+
+
+Task : Number Guessing Game
+Welcome to the Number Guessing Game! In this game, you will have the opportunity to guess a random number within a specified range. 
+Try to guess the number correctly within the given number of attempts. Let's see how skilled you are at guessing!
+
+Task : Student Grade Calculator
+Welcome to the Student Grade Calculator! This program allows you to calculate your average percentage and corresponding grade based on the marks obtained in each subject.
+
+Task : ATM Interface
+Welcome to the ATM Interface program! This program simulates a simple ATM interface, allowing users to perform transactions such as checking balance, depositing, 
+and withdrawing funds.
+
+Task : Student Course Registration System
+Welcome to the Student Course Registration System! This program allows students to register for courses and manage their course schedule.
