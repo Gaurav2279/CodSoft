@@ -4,7 +4,7 @@ Date : 23/11/2023
 ID   : CS11WX127905
 
 Dear,
-Gaurav Bobade
+Gaurav Bobade.
 We would like to congratulate you on being selected for the “ Java Programming”
 internship position with “CodSoft”. We at CodSoft are excited that you will join our team.
 The duration of the internship will be of 4 weeks, starting from 25 November 2023 to 25
